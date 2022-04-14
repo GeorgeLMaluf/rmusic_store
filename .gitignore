@@ -1,0 +1,10 @@
+.DS_Store
+
+/back/.bundle
+/back/log/
+!/back/log/.keep
+/back/tmp
+
+/back/config/initializers/secret_token.rb
+/back/.byebug_history
+/back/.env*
